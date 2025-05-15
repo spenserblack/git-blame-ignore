@@ -8,14 +8,8 @@ falling back to `.git-blame-ignore-revs` as a default.
 
 ## Why?
 
-I keep calling this over and over:
-
-```shell
-git log -1 --format="%H" >> .git-blame-ignore-revs
-```
-
-So I figured I'd write this to do that for me. Feel free to just copy and paste that
-command if that works better than installing this executable for you ;)
+I kept calling the same commands over and over to add a new rev to
+`.git-blame-ignore-revs`, and it was getting repetitive. This is a slight shortcut.
 
 ## Basic usage
 
