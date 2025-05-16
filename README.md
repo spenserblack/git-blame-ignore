@@ -21,4 +21,9 @@ git blame-ignore add
 git blame-ignore add REF
 ```
 
+## Installation
+
+See [`INSTALLATION.md`][installation]
+
 [github-docs]: https://docs.github.com/en/repositories/working-with-files/using-files/viewing-and-understanding-files#ignore-commits-in-the-blame-view
+[installation]: ./INSTALLATION.md
